@@ -27,3 +27,4 @@ http://127.0.0.1:8000/api/company/zm
 http://127.0.0.1:8000/api/company/zuo
 
 PS: There is no PVTL company because I didn't find it on finance.yahoo.com:)
+Check out some screenshots in the screens folder how it looks
