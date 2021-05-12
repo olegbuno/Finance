@@ -2,7 +2,7 @@
 After you downloaded csv files from finance.yahoo.com with all data you should do next steps:
 
 - Extract data to DB by running this script "export_to_db.py" for each csv file.
-(In each csv file don't forget to delete space between 'AdjClose')
+(In each csv file don't forget to delete space between 'AdjClose'). I've done it already. You can skip this point)
 - activate venv:
 `.\env\Scripts\activate`
 - install requirements:
